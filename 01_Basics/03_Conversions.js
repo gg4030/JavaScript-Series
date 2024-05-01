@@ -1,2 +1,2 @@
-let any = false
+let any = 100
 console.log(typeof any);
