@@ -1,2 +1,2 @@
-let any = 100
+let any = "Hello"
 console.log(typeof any);
