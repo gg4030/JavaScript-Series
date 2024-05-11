@@ -7,4 +7,12 @@ const newNums = myNumers
                 .map( (num) => num + 1)
                 .filter( (num) => num >= 40)
 
-console.log(newNums);
+// console.log(newNums);
+
+const ex = [1,2,3,4,5];
+
+const ans = ex.map((num) => {
+    return num * 9;
+})
+
+console.log(ans);
